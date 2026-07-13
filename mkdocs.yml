@@ -1,0 +1,52 @@
+site_name: PageRush Support
+site_url: https://support.pagerush.online
+site_description: Official help center for PageRush
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: deep purple
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Complete Guide: complete-guide.md
+  - FAQ: faq.md
+  - Landing Page Components:
+      - Overview: components/index.md
+      - Accordion: components/accordion.md
+      - Alert: components/alert.md
+      - Button: components/button.md
+      - Call to Action: components/call-to-action.md
+      - Card: components/card.md
+      - Feature List: components/feature-list.md
+      - GIF Embed: components/gif-embed.md
+      - Pricing Table: components/pricing-table.md
+      - Testimonial: components/testimonial.md
+      - Video Embed: components/video-embed.md
+  - AI Navigation Rules: ai-navigation-rules.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+copyright: Copyright &copy; PageRush

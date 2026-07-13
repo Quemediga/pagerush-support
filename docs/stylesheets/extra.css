@@ -1,0 +1,7 @@
+﻿:root {
+  --md-primary-fg-color: #6d28d9;
+  --md-primary-fg-color--light: #8b5cf6;
+  --md-primary-fg-color--dark: #4c1d95;
+}
+.md-header__title { font-weight: 700; }
+.md-typeset h1 { font-weight: 750; letter-spacing: -0.025em; }
