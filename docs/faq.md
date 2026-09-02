@@ -41,7 +41,7 @@ A: Frontmatter is metadata at the top of a post between `---` lines. It can incl
 Tags: frontmatter, mdx, seo
 
 ### Q: What frontmatter should I use?
-A: Title and excerpt are strongly recommended. Use `mode: "landing-page"` for a clean landing page layout or `mode: "blog-post"` for a blog-style post. Use lowercase, hyphen-separated slugs.
+A: A title is required, and an excerpt is strongly recommended. If PageRush says the title is missing, copy one of the [simple title options](post-title.md). Use `mode: "landing-page"` for a clean landing page layout or `mode: "blog-post"` for a blog-style post. Use lowercase, hyphen-separated slugs.
 Tags: frontmatter, seo, mode
 
 ### Q: Why should I avoid an H1 inside the post body?

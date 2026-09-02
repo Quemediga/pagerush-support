@@ -10,6 +10,7 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+    - content.code.copy
   palette:
     scheme: default
     primary: deep purple
@@ -25,6 +26,7 @@ nav:
   - Home: index.md
   - Complete Guide: complete-guide.md
   - FAQ: faq.md
+  - Add a Page Title: post-title.md
   - Landing Page Components:
       - Overview: components/index.md
       - Accordion: components/accordion.md
