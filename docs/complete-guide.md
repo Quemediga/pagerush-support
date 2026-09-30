@@ -190,15 +190,15 @@ Only use valid JSON with double quotes. If you are unsure, ask support before sa
 
 PageRush has two paid plans.
 
-Essential includes unlimited posts and pages. Use Essential when you want all published content to be live and do not need advanced business features.
+Essential includes unlimited posts and pages plus built-in AI page creation and editing. Use Essential when you want all published content to be live and do not need advanced business features.
 
-Premium includes unlimited posts and pages plus custom domains, marketing pixels, and the WhatsApp CTA with Carlos Alegre signature design.
+Premium includes every Essential feature, including built-in AI page creation and editing, and adds custom domains, marketing pixels, and the WhatsApp CTA with Carlos Alegre signature design.
 
 Check Billing for the current plan comparison.
 
 ### Marketing Pixels
 
-Marketing pixels are tracking snippets such as Google Analytics or Facebook Pixel.
+Marketing pixels are tracking snippets for Google Analytics, Google Ads, Meta Pixel, TikTok Pixel, LinkedIn Insight Tag, Hotjar, Microsoft Clarity, and Pinterest Tag.
 
 They help you measure visits, conversions, and audience behavior.
 
@@ -339,9 +339,9 @@ If the problem continues, contact support with the error message and account ema
 
 ### Use AI to Create PageRush Content
 
-PageRush works well with AI-generated Markdown or MDX.
+During setup, describe your first page and choose whether PageRush creates it or prepares a prompt for your AI app. An active Essential or Premium subscription also lets you create and edit pages with PageRush's built-in AI.
 
-Ask the AI for complete MDX with frontmatter, then paste it into the post editor.
+If you use your own AI app, wait for its answer to finish and copy the complete result. When you return to PageRush, confirm that you copied it before the paste step appears. For manual editing, you can also paste complete MDX with frontmatter into the post editor.
 
 Ask for valid MDX only: YAML frontmatter first, then Markdown content.
 
