@@ -131,15 +131,15 @@ Tags: advanced-settings, json
 ## Premium Features
 
 ### Q: What is included in the Essential plan?
-A: Essential includes unlimited posts and pages. It is the right paid plan when the user wants all published content to be live but does not need custom domains, marketing pixels, or the WhatsApp CTA floating button.
+A: Essential includes unlimited posts and pages plus built-in AI page creation and editing. It is the right paid plan when the user wants all published content to be live but does not need custom domains, marketing pixels, or the WhatsApp CTA floating button.
 Tags: essential, plans, billing
 
 ### Q: What features are included in Premium?
-A: Premium includes unlimited posts and pages plus professional features such as custom domains, marketing pixels, and the WhatsApp CTA with Carlos Alegre signature design. Check Billing for the current plan comparison.
+A: Premium includes every Essential feature, including built-in AI page creation and editing, and adds custom domains, marketing pixels, and the WhatsApp CTA with Carlos Alegre signature design. Check Billing for the current plan comparison.
 Tags: premium, plans
 
 ### Q: What are marketing pixels?
-A: Marketing pixels are tracking snippets such as Google Analytics or Facebook Pixel. They help you measure visits, conversions, and audience behavior. This is a Premium feature.
+A: Marketing pixels are tracking snippets for Google Analytics, Google Ads, Meta Pixel, TikTok Pixel, LinkedIn Insight Tag, Hotjar, Microsoft Clarity, and Pinterest Tag. They help measure visits, conversions, and audience behavior. This is a Premium feature.
 Tags: marketing-pixels, premium, analytics
 
 ### Q: What is the WhatsApp CTA button?
@@ -233,7 +233,7 @@ Tags: billing, checkout, stripe, troubleshooting
 ## AI and ChatGPT Integration
 
 ### Q: Can I use AI to create PageRush content?
-A: Yes. PageRush works well with AI-generated Markdown/MDX. Ask the AI for complete MDX with frontmatter, then paste it into the post editor.
+A: Yes. During setup, describe your first page and choose whether PageRush creates it or prepares a prompt for your AI app. An active Essential or Premium subscription also lets you create and edit pages with PageRush's built-in AI. If you use your own AI app, bring its formatted response back to PageRush.
 Tags: ai, mdx, content
 
 ### Q: What should I ask AI to generate?
